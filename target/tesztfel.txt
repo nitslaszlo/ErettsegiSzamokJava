@@ -1,0 +1,12 @@
+1 1526 Mikor volt a mohacsi vesz?
+1 476 Melyik evben bomlott fel a Nyugat-Romai Birodalom?
+1 2 Melyik a legkisebb primszam?
+3 6370 Mennyi a Fold atlagos sugara (10 km-re kerekitve)?
+1 7 Hany szomszedja van Magyarorszagnak?
+3 2 Mennyivel tobb 90 fok szinusza -90 fok szinuszanal?
+3 8 Mi a Fibonacci-sorozat 6. eleme?
+1 1867 Mikor volt a Kiegyezes?
+2 1949 Melyik evben alakult meg a NATO?
+1 1014 Milyen magas a Kekesteto
+
+A feladatsorra összesen 17 pont adható.
