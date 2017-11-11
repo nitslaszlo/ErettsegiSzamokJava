@@ -1,12 +1,12 @@
-1 1526 Mikor volt a mohacsi vesz?
-1 12 Mennyi 4 es 6 legkisebb kozos tobbszorose?
-1 476 Melyik evben bomlott fel a Nyugat-Romai Birodalom?
-3 6370 Mennyi a Fold atlagos sugara (10 km-re kerekitve)?
-3 2 Mennyivel tobb 90 fok szinusza -90 fok szinuszanal?
+1 2004 Mikor lett Magyarorszag az Europai Unio tagja?
+1 7 Hany szomszedja van Magyarorszagnak?
+3 1415 Melyik evben egettek meg Husz Janost?
+2 54 Mennyi egy 3 egyseg oldalu kocka terulete?
+2 17 Hany orszag alkotja az eurozonat (2012-ben)
+1 19 Hany megyeje van Magyarorszagnak?
 2 1606 Mikor kotottek meg a zsitvatoroki beket?
-1 1867 Mikor volt a Kiegyezes?
-3 157 Kb. hany ezer negyzetkilometer a Tisza vizgyujto terulete?
-3 1937 Melyik evben vezettek be Magyarorszagon a 8 oras munkaidot?
-3 9 Hany lakosa volt Magyarorszag legkisebb telepulesenek, Iborfianak, 2012 januar 1-en?
+3 40 Hany predikator szerepel Moldova Gyorgy regenyenek cimeben?
+1 55 Mennyi -55 abszoluterteke?
+1 1014 Milyen magas a Kekesteto
 
-A feladatsorra összesen 21 pont adható.
+A feladatsorra összesen 17 pont adható.

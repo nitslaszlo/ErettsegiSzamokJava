@@ -74,9 +74,7 @@ public class Szamok {
 		String tema = JOptionPane.showInputDialog("Adja meg a téma nevét: ");
 
 		List<Feladat> témaKérdései = new ArrayList<Feladat>();
-		for (Feladat i : feladatok) {
-			if (i.getTéma().equals(tema)) témaKérdései.add(i);
-		}
+		for (Feladat i : feladatok) if (i.getTéma().equals(tema)) témaKérdései.add(i);
 
 		if (témaKérdései.size() > 0) {
 			Feladat kisorsolt = témaKérdései.get(rnd.nextInt(témaKérdései.size()));
