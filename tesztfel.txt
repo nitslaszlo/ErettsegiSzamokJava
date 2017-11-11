@@ -1,0 +1,12 @@
+1 1526 Mikor volt a mohacsi vesz?
+1 12 Mennyi 4 es 6 legkisebb kozos tobbszorose?
+1 476 Melyik evben bomlott fel a Nyugat-Romai Birodalom?
+3 6370 Mennyi a Fold atlagos sugara (10 km-re kerekitve)?
+3 2 Mennyivel tobb 90 fok szinusza -90 fok szinuszanal?
+2 1606 Mikor kotottek meg a zsitvatoroki beket?
+1 1867 Mikor volt a Kiegyezes?
+3 157 Kb. hany ezer negyzetkilometer a Tisza vizgyujto terulete?
+3 1937 Melyik evben vezettek be Magyarorszagon a 8 oras munkaidot?
+3 9 Hany lakosa volt Magyarorszag legkisebb telepulesenek, Iborfianak, 2012 januar 1-en?
+
+A feladatsorra összesen 21 pont adható.
