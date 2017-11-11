@@ -55,7 +55,6 @@ public class Szamok {
 		String ki = "Az adatfájlban " + matPontDb[0] + " matematika feladat van";
 		for (int i = 1; i < matPontDb.length; i++) {
 			ki += ", " + i + " pontot er " + matPontDb[i] + " feladat";
-
 		}
 		p.add(new Label(ki + "."));
 
@@ -63,14 +62,12 @@ public class Szamok {
 		p.add(new Label("A válaszok számértéke a [" + Collections.min(feladatok).getVálasz() + ", "
 		 + Collections.max(feladatok).getVálasz() + "] intervallumban van."));
 
-		//5. feladat - témakörök kigyűjtése
 		p.add(new Label("5. feladat"));
 		HashSet<String> temakHalmaza = new HashSet<String>();
 		for (Feladat i : feladatok) temakHalmaza.add(i.getTéma());
 		p.add(new Label("A kérdesek témakörei: "));
 		p.add(new Label(String.join(", ", temakHalmaza)));
 
-		//6. feladat - egy kérdés sorsolása
 		p.add(new Label("6. feladat"));
 		f.pack();
 		Random rnd = new Random();
@@ -93,8 +90,7 @@ public class Szamok {
 			}
 		}
 
-		//7. feladat - kérdéssor generálása
-		p.add(new Label("7. feladat"));
+		p.add(new Label("7. feladat - tesztfel.txt"));
 		HashSet<Integer> indexek = new HashSet<Integer>();
 		do {
 			indexek.add(rnd.nextInt(feladatok.size()));
@@ -106,7 +102,6 @@ public class Szamok {
 			sorok.add(feladatok.get(i).toString());
 			osszPont += feladatok.get(i).getPont();
 		}
-
 		sorok.add("");
 		sorok.add("A feladatsorra összesen " + osszPont + " pont adható.");
 		try {
