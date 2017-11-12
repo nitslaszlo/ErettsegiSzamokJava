@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>eu.jedlik.ErettsegiSzamokJava</groupId>
-  <artifactId>ErettsegeiSzamokJava</artifactId>
+  <artifactId>ErettsegiSzamokJava</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ErettsegeiSzamokJava</name>
+  <name>ErettsegiSzamokJava</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>

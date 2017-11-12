@@ -6,11 +6,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Debug (Launch)-App<ErettsegeiSzamokJava>",
+            "name": "Debug (Launch)-App<ErettsegiSzamokJava>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "mainClass": "eu.jedlik.ErettsegiSzamokJava.App",
-            "projectName": "ErettsegeiSzamokJava",
+            "projectName": "ErettsegiSzamokJava",
             "args": ""
         },
         {

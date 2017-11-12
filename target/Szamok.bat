@@ -1,1 +1,1 @@
-java -cp ErettsegeiSzamokJava-1.0-SNAPSHOT.jar eu.jedlik.ErettsegiSzamokJava.App
+java -cp ErettsegiSzamokJava-1.0-SNAPSHOT.jar eu.jedlik.ErettsegiSzamokJava.App
